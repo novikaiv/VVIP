@@ -1,7 +1,7 @@
 
 ### INSTALL SCRIPT 
 ```
-apt install -y && apt update -y && apt upgrade -y && wget -q https://raw.githubusercontent.com/YINNSTORE/VVIP/main/main.sh && chmod +x main.sh && ./main.sh
+apt install -y && apt update -y && apt upgrade -y && wget -q https://raw.githubusercontent.com/dit1304/VVIP/main/main.sh && chmod +x main.sh && ./main.sh
 ```
 
 ## UPDATE SCRIPT
