@@ -322,10 +322,10 @@ TIMEZONE=$(printf '%(%H:%M:%S)T')
 <code>Time     :</code><code>$TIMEZONE</code>
 <code>Exp Sc.  :</code><code>$exp</code>
 <code>────────────────────</code>
-<b> YINN TUNELING VVIP SCRIPT  </b>
+<b> ZERO STORE VVIP SCRIPT  </b>
 <code>────────────────────</code>
 <i>Automatic Notifications From Github</i>
-"'&reply_markup={"inline_keyboard":[[{"text":"ᴏʀᴅᴇʀ","url":"t.me/ohmyvillain"}]]}' 
+"'&reply_markup={"inline_keyboard":[[{"text":"ᴏʀᴅᴇʀ","url":"t.me/kakatiri"}]]}' 
 
     curl -s --max-time $TIMES -d "chat_id=$CHATID&disable_web_page_preview=1&text=$TEXT&parse_mode=html" $URL >/dev/null
 }
@@ -1013,7 +1013,7 @@ echo "===============-[ SCRIPT BY ZERO STORE ]-==============="
 echo -e ""
 echo ""
 echo "" | tee -a log-install.txt
-echo "TOLOL"
+echo "SELESAI BOS"
 sleep 1
 echo -ne "[ ${yell}COMPLETED${NC} ] PENGINSTALAN SCRIPT SELESAI KETIK Y UNTUK REBOOT ! (y/n)? "
 read answer
