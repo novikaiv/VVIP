@@ -1,11 +1,11 @@
 #!/bin/bash
 MYIP=$(wget -qO- icanhazip.com);
 apt install jq curl -y
-DOMAIN=.vpn-premium.biz.id
+DOMAIN=.zeroostore.net
 sub=$(</dev/urandom tr -dc a-z0-9 | head -c5)
-dns=${sub}.Vpn-premium.biz.id
-CF_ID=tesreset660@gmail.com
-CF_KEY=76b6d2c6ad605161156c6d08374b762058422
+dns=${sub}.zeroostore.net
+CF_ID=didit.pamuji@gmail.com
+CF_KEY=fe7fd9817a73cc64c4422233a8a5d6fd7ca9c
 set -euo pipefail
 IP=$(wget -qO- icanhazip.com);
 echo "Updating DNS for ${dns}..."
