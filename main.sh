@@ -29,7 +29,7 @@ echo -e " WELCOME TO ZERO STORE SCRIPT ${YELLOW}(${NC}${green}Stable Edition${NC
 echo -e " PROSES PENGECEKAN IP ADDRESS ANDA !!"
 echo -e "${purple}----------------------------------------------------------${NC}"
 echo -e " ›AUTHOR : ${green}ZERO STORE <® ${NC}${YELLOW}(${NC}${green}V 3.2${NC}${YELLOW})${NC}"
-echo -e " ›TEAM 🅥🅝: ZERO STORE ${YELLOW}(${NC} 2024 ${YELLOW})${NC}"
+echo -e " ›TEAM : ZERO STORE ${YELLOW}(${NC} 2024 ${YELLOW})${NC}"
 echo -e "${YELLOW}----------------------------------------------------------${NC}"
 echo ""
 sleep 2
