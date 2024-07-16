@@ -11,7 +11,7 @@ WGET LU TAII
 
 ### UDP
 ```
-wget https://raw.githubusercontent.com/dit1304/main/udp/udp-custom.sh && chmod +x udp-custom.sh && ./udp-custom.sh
+wget https://raw.githubusercontent.com/dit1304/udp/main/udp-custom.sh && chmod +x udp-custom.sh && ./udp-custom.sh
 ```
 
 ### WORK DI OS
