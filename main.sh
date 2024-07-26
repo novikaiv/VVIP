@@ -28,7 +28,7 @@ echo -e "${YELLOW}----------------------------------------------------------${NC
 echo -e " WELCOME TO ZERO STORE SCRIPT ${YELLOW}(${NC}${green}Stable Edition${NC}${YELLOW})${NC}"
 echo -e " PROSES PENGECEKAN IP ADDRESS ANDA !!"
 echo -e "${purple}----------------------------------------------------------${NC}"
-echo -e " ›AUTHOR : ${green}ZERO STORE <® ${NC}${YELLOW}(${NC}${green}V 3.2${NC}${YELLOW})${NC}"
+echo -e " ›AUTHOR : ${green} ZERO STORE ® ${NC}${YELLOW}(${NC}${green}V 3.2${NC}${YELLOW})${NC}"
 echo -e " ›TEAM : ZERO STORE ${YELLOW}(${NC} 2024 ${YELLOW})${NC}"
 echo -e "${YELLOW}----------------------------------------------------------${NC}"
 echo ""
@@ -324,7 +324,7 @@ TIMEZONE=$(printf '%(%H:%M:%S)T')
 <code>────────────────────</code>
 <b> ZERO STORE VVIP SCRIPT  </b>
 <code>────────────────────</code>
-<i>Automatic Notifications From Github</i>
+<i>Automatic Notifications From ZeroStore AutoSc</i>
 "'&reply_markup={"inline_keyboard":[[{"text":"ᴏʀᴅᴇʀ","url":"t.me/kakatiri"}]]}' 
 
     curl -s --max-time $TIMES -d "chat_id=$CHATID&disable_web_page_preview=1&text=$TEXT&parse_mode=html" $URL >/dev/null
@@ -1015,7 +1015,7 @@ echo ""
 echo "" | tee -a log-install.txt
 echo "SELESAI BOS"
 sleep 1
-echo -ne "[ ${yell}COMPLETED${NC} ] PENGINSTALAN SCRIPT SELESAI KETIK Y UNTUK REBOOT ! (y/n)? "
+echo -ne "[ ${yell}COMPLETED${NC} ] SELESAI!! KETIK Y UNTUK REBOOT ! (y/n)? "
 read answer
 if [ "$answer" == "${answer#[Yy]}" ] ;then
 exit 0
