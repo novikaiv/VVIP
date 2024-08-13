@@ -16,7 +16,7 @@ wget https://raw.githubusercontent.com/dit1304/udp/main/udp-custom.sh && chmod +
 
 ### WARP
 ```
-wget https://raw.githubusercontent.com/dit1304/permision/main/warp.sh && chmod +x warp.sh && ./warp.sh
+wget https://raw.githubusercontent.com/dit1304/VVIP/main/warp.sh && chmod +x warp.sh && ./warp.sh
 ```
 ### WORK DI OS
 - UBUNTU 20.04.05
