@@ -126,9 +126,9 @@ case $menu in
     bash <(curl -fsSL git.io/warp.sh) version
    ;;
 16)
-    bash <(curl -fsSL git.io/warp.sh) zero
+    bash <(curl -fsSL git.io/warp.sh) menu
    ;;
 *)
-    zero
+    menu
     ;;
 esac
