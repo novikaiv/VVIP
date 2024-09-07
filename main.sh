@@ -315,8 +315,8 @@ TIMEZONE=$(printf '%(%H:%M:%S)T')
 <code>────────────────────</code>
 <b>⚡𝗡𝗢𝗧𝗜𝗙 𝗜𝗡𝗦𝗧𝗔𝗟𝗟 𝗦𝗖𝗥𝗜𝗣𝗧⚡</b>
 <code>────────────────────</code>
-<code>Ip       :</code><code>$ip</code>
 <code>User     :</code><code>$username</code>
+<code>IP       :</code><code>$IP</code>
 <code>ISP      :</code><code>$ISP</code>
 <code>CITY     :</code><code>$CITY</code>
 <code>DATE     :</code><code>$DATE</code>
