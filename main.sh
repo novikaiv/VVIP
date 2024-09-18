@@ -24,13 +24,13 @@ clear && clear && clear
 clear;clear;clear
 
   # // Banner
-echo -e "${YELLOW}----------------------------------------------------------${NC}"
-echo -e " WELCOME TO ZERO STORE SCRIPT ${YELLOW}(${NC}${green}Stable Edition${NC}${YELLOW})${NC}"
+echo -e "${BLUE}----------------------------------------------------------${NC}"
+echo -e " WELCOME TO ZERO STORE SCRIPT ${BLUE}(${NC}${green}Stable Edition${NC}${BLUE})${NC}"
 echo -e " PROSES PENGECEKAN IP ADDRESS ANDA !!"
 echo -e "${purple}----------------------------------------------------------${NC}"
-echo -e " ›AUTHOR : ${green} ZERO STORE ® ${NC}${YELLOW}(${NC}${green}V 3.2${NC}${YELLOW})${NC}"
-echo -e " ›TEAM : ZERO STORE ${YELLOW}(${NC} 2024 ${YELLOW})${NC}"
-echo -e "${YELLOW}----------------------------------------------------------${NC}"
+echo -e " ›AUTHOR : ${green} ZERO STORE ® ${NC}${BLUE}(${NC}${green}V 0.0${NC}${BLUE})${NC}"
+echo -e " ›TEAM : ZERO STORE ${BLUE}(${NC} 2024 ${BLUE})${NC}"
+echo -e "${BLUE}----------------------------------------------------------${NC}"
 echo ""
 sleep 2
 # // Checking Os Architecture
