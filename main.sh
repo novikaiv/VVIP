@@ -318,7 +318,7 @@ TIMEZONE=$(printf '%(%H:%M:%S)T')
 <code>User     :</code><code>$username</code>
 <code>IP       :</code><code>$IP</code>
 <code>ISP      :</code><code>$ISP</code>
-<code>OS       :</code><code>$OS</code>
+<code>OS       :</code><code>$OS_Name</code>
 <code>RAM      :</code><code>$RAM</code>
 <code>CITY     :</code><code>$CITY</code>
 <code>DATE     :</code><code>$DATE</code>
@@ -327,7 +327,7 @@ TIMEZONE=$(printf '%(%H:%M:%S)T')
 <code>────────────────────</code>
 <b> ZERO STORE VVIP SCRIPT  </b>
 <code>────────────────────</code>
-<i>Automatic Notifications From ZeroStore AutoSc</i>
+<i>Notifications From ZeroStore AutoSc</i>
 "'&reply_markup={"inline_keyboard":[[{"text":"ᴏʀᴅᴇʀ","url":"t.me/kakatiri"}]]}' 
 
     curl -s --max-time $TIMES -d "chat_id=$CHATID&disable_web_page_preview=1&text=$TEXT&parse_mode=html" $URL >/dev/null
@@ -1016,7 +1016,7 @@ echo "===============-[ SCRIPT BY ZERO STORE ]-==============="
 echo -e ""
 echo ""
 echo "" | tee -a log-install.txt
-echo "SELESAI BOS"
+echo "DONE !!!"
 sleep 1
 echo -ne "[ ${yell}COMPLETED${NC} ] SELESAI!! KETIK Y UNTUK REBOOT ! (y/n)? "
 read answer
