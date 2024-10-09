@@ -1,6 +1,6 @@
 #!/bin/bash
 # Edition : Stable Edition V3.0
-# Auther  : Tomket
+# Auther  : ZeroStore
 # (C) Copyright 2023
 # =========================================
 
