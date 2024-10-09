@@ -82,7 +82,7 @@ gem install lolcat
 apt install wondershaper -y
 clear
 # REPO    
-    REPO="https://raw.githubusercontent.com/dit1304/VVIP/main/"
+    REPO="https://raw.githubusercontent.com/novikaiv/VVIP/main/"
 
 ####
 start=$(date +%s)
@@ -269,7 +269,7 @@ curl "ipinfo.io/city?token=7a814b6263b02c" > /root/.city
 MYIP=$(curl -sS ipv4.icanhazip.com)
 echo -e "\e[32mloading...\e[0m" 
 clear
-izinsc="https://raw.githubusercontent.com/dit1304/permision/main/zero"
+izinsc="https://raw.githubusercontent.com/novikaiv/permision/main/zero"
 # USERNAME
 rm -f /usr/bin/user
 username=$(curl $izinsc | grep $MYIP | awk '{print $2}')
@@ -317,7 +317,7 @@ TIMEZONE=$(printf '%(%H:%M:%S)T')
 <code>────────────────────</code>
 <code>User     :</code><code>$username</code>
 <code>IP       :</code><code>$IP</code>
-<code>DOMAIN      :</code><code>$DOMAIN</code>
+<code>DOMAIN   :</code><code>$DOMAIN</code>
 <code>ISP      :</code><code>$ISP</code>
 <code>OS       :</code><code>$OS_Name</code>
 <code>RAM      :</code><code>$mem_total</code>
